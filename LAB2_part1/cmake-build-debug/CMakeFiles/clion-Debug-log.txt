@@ -1,0 +1,4 @@
+/home/ola1/.cache/JetBrains/RemoteDev/dist/3d8b36b2566c3_CLion-241.14494.229/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/ola1/.cache/JetBrains/RemoteDev/dist/3d8b36b2566c3_CLion-241.14494.229/bin/ninja/linux/x64/ninja -G Ninja -S /mnt/c/Users/User/Documents/terceiroano/1semestre/RC/LAB2_part1 -B /mnt/c/Users/User/Documents/terceiroano/1semestre/RC/LAB2_part1/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /mnt/c/Users/User/Documents/terceiroano/1semestre/RC/LAB2_part1/cmake-build-debug
